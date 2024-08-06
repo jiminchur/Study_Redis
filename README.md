@@ -1,3 +1,3 @@
-# 리더보드와 SortedSet
-> Redis의 SortedSet를 이용한 리더보드 순위 실습
+# Spring Boot 프로젝트에 캐싱 적용하기
+> RedisCacheManger를 구성해보고 @Cacheable, @CachePut, @CacheEvict 어노테이션의 사용법을 알아본다.
 
