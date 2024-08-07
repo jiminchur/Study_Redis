@@ -1,3 +1,5 @@
-# Spring Boot 프로젝트에 캐싱 적용하기
-> RedisCacheManger를 구성해보고 @Cacheable, @CachePut, @CacheEvict 어노테이션의 사용법을 알아본다.
+# Redis 설치하기
+> Docker로 Redis 설치하기
 
+# 정리한 블로그 주소
+[[Redis] Redis Docker로 설치하기](https://jiminchur.github.io/my-first-article/redis2/)
