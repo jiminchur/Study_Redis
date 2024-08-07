@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sprata.redis.RedisTemplateTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-06T02:10:31" hostname="jimincheol-ui-MacBookPro.local" time="0.966">
+  <properties/>
+  <testcase name="setItemredisTemplatetest()" classname="com.sprata.redis.RedisTemplateTests" time="0.966"/>
+  <system-out><![CDATA[11:10:30.016 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.sprata.redis.RedisTemplateTests]: RedisTemplateTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+11:10:30.087 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.sprata.redis.RedisApplication for test class com.sprata.redis.RedisTemplateTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2024-08-06T11:10:30.321+09:00  INFO 16041 --- [    Test worker] com.sprata.redis.RedisTemplateTests      : Starting RedisTemplateTests using Java 17.0.9 with PID 16041 (started by jimincheol in /Users/jimincheol/spartacodingclub_stduy/redis/com.sprata.redis)
+2024-08-06T11:10:30.323+09:00  INFO 16041 --- [    Test worker] com.sprata.redis.RedisTemplateTests      : No active profile set, falling back to 1 default profile: "default"
+2024-08-06T11:10:30.637+09:00  INFO 16041 --- [    Test worker] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-06T11:10:30.638+09:00  INFO 16041 --- [    Test worker] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-06T11:10:30.728+09:00  INFO 16041 --- [    Test worker] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 80 ms. Found 1 Redis repository interface.
+2024-08-06T11:10:31.444+09:00  INFO 16041 --- [    Test worker] com.sprata.redis.RedisTemplateTests      : Started RedisTemplateTests in 1.274 seconds (process running for 1.934)
+ItemDto(name=Mechanical Keyboard, description=Expensive ]]>&#x1f622;<![CDATA[, price=300000)
+ItemDto(name=mouse mice, description=Expensive ]]>&#x1f622;<![CDATA[, price=100000)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
